@@ -13,12 +13,12 @@
  * Library Version: 2018-03-22
  * Generated: Thu Mar 15 07:12:22 GMT 2018
  */
-package com.amazon.mws.finances._2015_05_01;
+package com.amazonservices.mws.finances;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Future;
 
-import com.amazon.mws.finances._2015_05_01.model.*;
+import com.amazonservices.mws.finances.model.*;
 
 public class MWSFinancesServiceAsyncClient extends MWSFinancesServiceClient implements MWSFinancesServiceAsync {
 

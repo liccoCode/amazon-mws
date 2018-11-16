@@ -13,7 +13,7 @@
  * Library Version: 2018-03-22
  * Generated: Thu Mar 15 07:12:22 GMT 2018
  */
-package com.amazon.mws.finances._2015_05_01.mock;
+package com.amazonservices.mws.finances.mock;
 
 
 import java.io.InputStream;
@@ -21,8 +21,8 @@ import java.util.Arrays;
 import java.util.concurrent.*;
 import java.util.Date;
 
-import com.amazon.mws.finances._2015_05_01.*;
-import com.amazon.mws.finances._2015_05_01.model.*;
+import com.amazonservices.mws.finances.*;
+import com.amazonservices.mws.finances.model.*;
 
 import com.amazonservices.mws.client.MwsObject;
 import com.amazonservices.mws.client.MwsUtl;

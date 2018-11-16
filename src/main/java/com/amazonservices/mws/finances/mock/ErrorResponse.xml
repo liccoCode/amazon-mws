@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ErrorResponse xmlns="com.amazon.mws.finances._2015_05_01">
+<ErrorResponse xmlns="com.amazonservices.mws.finances">
   <!--1 or more repetitions:-->
   <Error>
     <Type>Sender</Type>

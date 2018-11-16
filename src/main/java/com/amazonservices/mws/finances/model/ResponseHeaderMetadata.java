@@ -11,7 +11,7 @@
  * Library Version: 2018-03-22
  * Generated: Thu Mar 15 07:12:22 GMT 2018
  */
-package com.amazon.mws.finances._2015_05_01.model;
+package com.amazonservices.mws.finances.model;
 
 import java.util.List;
 import java.util.Date;

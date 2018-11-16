@@ -13,11 +13,11 @@
  * Library Version: 2018-03-22
  * Generated: Thu Mar 15 07:12:22 GMT 2018
  */
-package com.amazon.mws.finances._2015_05_01.samples;
+package com.amazonservices.mws.finances.samples;
 
-import com.amazon.mws.finances._2015_05_01.MWSFinancesServiceAsyncClient;
-import com.amazon.mws.finances._2015_05_01.MWSFinancesServiceClient;
-import com.amazon.mws.finances._2015_05_01.MWSFinancesServiceConfig;
+import com.amazonservices.mws.finances.MWSFinancesServiceAsyncClient;
+import com.amazonservices.mws.finances.MWSFinancesServiceClient;
+import com.amazonservices.mws.finances.MWSFinancesServiceConfig;
 
 /**
  * Configuration for MWSFinancesService samples.
